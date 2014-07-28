@@ -1,0 +1,297 @@
+.crumbs {
+	background: url("../img/T1NRqlXm4jXXXXXXXX-65-35.png") repeat-x 0 0;
+	position: relative;
+	z-index: 1;
+	margin-left: auto;
+	margin-right: auto;
+	width: 990px;
+	height: 34px;
+	line-height: 34px;
+}
+
+.crumbs a {
+	background: url(http://a.tbcdn.cn/sys/common/img/crumb_bg.gif) no-repeat 100% 50%;
+	float: left;
+	display: inline-block;
+	color: #336797;
+	margin-right: 10px;
+	padding: 0 20px 0 0;
+}
+
+.APIgory {
+	color: #000;
+	width: 180px;
+}
+
+.APIgory-title {
+	border-top: 1px solid #CEDEEF;
+	_width: 145px;
+	border-right: 1px solid #CEDEEF;
+	padding-left: 20px;
+	height: 32px;
+	line-height: 32px;
+	background: url(../img/T1jvilXfRkXXXXXXXX-9-7.png) no-repeat 5px center;
+}
+
+.APIgory .focus {
+	background: #D8E5F4 url(../img/T1ApGfXftzXXXXXXXX-9-17.png) no-repeat 171px center;
+	_background: none;
+	_background-color: #D8E5F4;
+	border-right: 0px;
+	_border-right: 1px solid #CEDEEF;
+	font-weight: bold;
+}
+
+.APIgory-list {
+	border-top: 1px solid #CEDEEF;
+	border-right: 1px solid #CEDEEF;
+	position: relative;
+	cursor: pointer;
+}
+
+.APIgory-content {
+	text-align: right;
+	overflow: hidden;
+	position: relative;
+	padding-top: 23px;
+	width: 180px;
+	height: 22px;
+}
+
+.APIgory-content .title-overflow {
+	position: absolute;
+	right: 0;
+	top: 5px;
+	width: 1500px;
+	white-space: nowrap;
+	text-align: right;
+}
+
+.APIgory-content .APIgoryItem {
+	padding-right: 15px;
+}
+
+.APIgory .info-overflow {
+	width: 165px;
+	white-space: nowrap;
+	word-wrap: break-word;
+	overflow: hidden;
+	display: block;
+}
+
+.APIgory-content .APIgory-intro {
+	color: #666;
+	text-align: right;
+}
+
+.APIgory .focus s {
+	background: url(../img/T1eC9nXldnXXXXXXXX-28-43.png) repeat-y scroll 0 0 transparent;
+	_display: none;
+}
+
+.APIgory-list:hover s {
+	background: url(../img/T1eC9nXldnXXXXXXXX-28-43.png) repeat-y scroll 0 0 transparent;
+}
+
+.APIgory-list s {
+	background: url(../img/T1gzanXkp6XXXXXXXX-184-12.png) repeat-y scroll 0 0 transparent;
+	display: block;
+	_display: none;
+	height: 48px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 167px;
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=noscale,src="../img/T1K5CkXgRpXXXXXXXX-184-12.png");
+	_background-image: none;
+}
+
+.quick-api {
+	background: url(../img/T1TSCkXfxXXXXXXXXX-18-99.png) no-repeat scroll 26px -78px transparent;
+	font-size: 14px;
+	height: 20px;
+	line-height: 20px;
+	margin-top: 10px;
+	padding-left: 50px;
+}
+
+.quick-api a{
+	font-size: 14px;
+}
+
+.grid-s165m0 .col-main {
+	width: 795px;
+	float: right;
+	margin-right: 0;
+	_margin-right: -50px;
+}
+
+.col-main {
+	float: left;
+	width: 100%;
+	min-height: 1px;
+}
+
+.layout:after, .main-wrap:after, .col-sub:after, .col-extra:after {
+	content: '\20';
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+.title-wrap {
+	background: url("../img/T1FkKiXiBkXXXXXXXX-65-33.png") 0 0;
+}
+
+.open-bg, .private-bg, .incre-bg {
+	background: url(../img/T1gqqKFrpbXXad8o_i-55-67.png) no-repeat -25px 3px;
+	padding-left: 35px;
+}
+
+.open-bg, .private-bg, .incre-bg {
+	background: url(../img/T1gqqKFrpbXXad8o_i-55-67.png) no-repeat -25px 3px;
+	padding-left: 35px;
+}
+
+.title span {
+	font-size: 14px;
+	color: #808080;
+	margin-left: 10px;
+}
+
+.api-sub-title {
+	background: url(../img/T1_E1fXcJgXXXXXXXX-856-37.png) no-repeat 0 0;
+	width: 850px;
+	height: 37px;
+	line-height: 37px;
+	margin-left: -30px;
+	margin-top: -5px;
+	padding-left: 30px;
+}
+
+.clearfix {
+	zoom: 1;
+}
+
+.api-sub-title {
+	background: url(../img/T1_E1fXcJgXXXXXXXX-856-37.png) no-repeat 0 0;
+	width: 850px;
+	height: 37px;
+	line-height: 37px;
+	margin-left: -30px;
+	margin-top: -5px;
+	padding-left: 30px;
+}
+
+.api-sub-title .sub-title {
+	float: left;
+	display: inline-block;
+	height: 37px;
+}
+
+.sub-title {
+	font-size: 14px;
+	font-family: \5fae\8f6f\96c5\9ed1;
+	font-weight: bold;
+}
+
+.api-sub-title a {
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 12px;
+	background: url(../img/T1UPGlXnNeXXXXXXXX-1-37.png) no-repeat right 0;
+	color: #336797;
+	font-weight: normal;
+	font-size: 12px;
+	font-family: "宋体";
+}
+
+.api-sub-title .sub-title {
+	float: left;
+	display: inline-block;
+	height: 37px;
+}
+
+.api-detail-bd {
+	margin-top: -15px;
+}
+
+.api-detail-bd .title-intro {
+	text-indent: 2em;
+	margin-top: 30px;
+	margin-bottom: 35px;
+	word-break: break-all;
+}
+
+.head-title {
+	background: url("../img/T11LqlXapEXXXXXXXX-66-30.png") repeat scroll 100% 0 transparent;
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 15px;
+	margin-top: 35px;
+	padding-left: 8px;
+	font-size: 14px;
+	font-family: \5fae\8f6f\96c5\9ed1;
+}
+
+.introduction {
+	width: 795px;
+	text-indent: 2em;
+	margin-top: 10px;
+	margin-bottom: 12px;
+	line-height: 22px;
+}
+
+.api-table {
+	border: 1px solid #D4E2F1;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 12px;
+	width: 795px;
+	margin-top: -13px;
+	table-layout: fixed;
+}
+
+.api-table th {
+	background: #fff;
+	color: #000;
+	height: 30px;
+	min-width: 6em;
+	padding: 3px 10px;
+	font-weight: bold;
+	border-bottom: 1px solid #D4E2F1;
+}
+
+.left {
+	text-align: left;
+}
+
+.api-table .odd {
+	background: #f1f7fb;
+}
+
+.api-table td {
+	vertical-align: text-top;
+	line-height: 25px;
+	padding: 3px 10px;
+	word-break: break-all;
+	word-wrap: break-word;
+	overflow: hidden;
+}
+
+.APIgory-title a {
+	color: #336797;
+	font-size: 14px;
+	height: 25px;
+	display: block;
+	overflow: hidden;
+	word-wrap: word-break;
+}
+
+.APIgory-sub-title {
+	overflow: hidden;
+	width: 100px;
+	font-weight: bold;
+	font-size: 14px;
+}
